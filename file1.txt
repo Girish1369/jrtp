@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 public void m7(){
 
 int a=10;
@@ -7,4 +8,7 @@ int multi=a*b;
 System.out.println("task m7 is completed");
 
 
+
+ public void m3(){
+	System.out.println("tast m3 is completed");
 }
